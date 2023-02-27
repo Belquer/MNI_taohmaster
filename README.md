@@ -18,3 +18,11 @@ FEATURES:
 - octave constrainer guarantees no note is out of range
 - G1 to G5 range
 - MIDI notes or frequencis in Hz
+
+KNOWN LIMITATIONS:
+- no pitch tracing
+- spatialization has speakers crossed
+- polyphony still a little cumbersome through automation, no direct MIDI notes
+- colors on keyboards/suits/visualization need to be standardized
+- on channels with less than four actuators (spine, sub, wrists, ankles) automation labels persist with foour variables
+
